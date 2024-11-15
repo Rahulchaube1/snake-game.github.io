@@ -1,0 +1,10 @@
+rahulg/
+│
+├── app.py              # Python file (Flask server)
+├── templates/
+│   ├── index.html      # Main HTML page (user interface)
+│   ├── upload.html     # Upload form
+├── static/
+│   ├── styles.css      # CSS file for styling
+│   └── logo.png        # Logo image (optional)
+└── uploads/            # Folder for uploaded HTML files
